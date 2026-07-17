@@ -260,13 +260,15 @@ In addition to quantitative evaluation, the notebook generates visualization pan
 
 These visualizations provide qualitative insight into model performance and help identify false-positive and false-negative predictions.
 
-> **Add your prediction visualization image here.**
+![Before Tuning Results](qualitative_before_tuning.png)
+
+![After Tuning Results](qualitative_results.png)
 
 ---
 
 # 📊 Performance Comparison
 
-> **Insert your Dice Score comparison graph here.**
+![Results Comparison](results_comparison.png)
 
 The comparison chart summarizes the performance difference between the baseline U-Net and the Swin-UNETR model across all evaluated tumor regions.
 
